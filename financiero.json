@@ -1,0 +1,60 @@
+{
+  "year": "2022",
+  "reporteFinanciero": [
+    {
+      "empresa": "Prueba Corp",
+      "nombreEmpresa": "Prueba Corp",
+      "companystock": "CHRT",
+      "finanzas": [
+        {
+          "mes": "Enero",
+          "ingresos": 90,
+          "gastos": 30,
+          "ganancias": 60
+        },
+        {
+          "mes": "Febrero",
+          "ingresos": 120,
+          "gastos": 30,
+          "ganancias": 90
+        },
+        {
+          "mes": "Marzo",
+          "ingresos": 150,
+          "gastos": 30,
+          "ganancias": 120
+        },
+        {
+          "mes": "Abril",
+          "ingresos": 180,
+          "gastos": 30,
+          "ganancias": 150
+        },
+        {
+          "mes": "Mayo",
+          "ingresos": 210,
+          "gastos": 30,
+          "ganancias": 180
+        },
+        {
+          "mes": "Junio",
+          "ingresos": 240,
+          "gastos": 30,
+          "ganancias": 210
+        },
+        {
+          "mes": "Julio",
+          "ingresos": 270,
+          "gastos": 30,
+          "ganancias": 240
+        },
+        {
+          "mes": "Agosto",
+          "ingresos": 150,
+          "gastos": 30,
+          "ganancias": 120
+        }
+      ]
+    }
+  ]
+}
